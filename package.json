@@ -1,0 +1,15 @@
+{
+  "name": "simple_test_project",
+  "dependencies": {
+    "jasmine" : "2.2",
+    "karma": "0.12",
+    "karma-jasmine": "0.3",
+    "karma-sinon": "1.0",
+    "gulp-karma": "0.0.4",
+    "phantomjs": "1.9",
+    "gulp" : "3.8"
+  },
+  "devDependencies": {
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
